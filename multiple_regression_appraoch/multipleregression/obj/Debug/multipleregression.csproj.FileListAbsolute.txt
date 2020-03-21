@@ -1,0 +1,10 @@
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\bin\Debug\multipleregression.exe.config
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\bin\Debug\multipleregression.exe
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\bin\Debug\multipleregression.pdb
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\bin\Debug\MathNet.Numerics.dll
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\bin\Debug\MathNet.Numerics.xml
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\obj\Debug\multipleregression.csproj.ResolveComReference.cache
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\obj\Debug\multipleregression.exe
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\obj\Debug\multipleregression.pdb
+C:\Users\Cristy\Documents\Visual Studio 2015\Projects\multipleregression\multipleregression\obj\Debug\multipleregression.csprojResolveAssemblyReference.cache
