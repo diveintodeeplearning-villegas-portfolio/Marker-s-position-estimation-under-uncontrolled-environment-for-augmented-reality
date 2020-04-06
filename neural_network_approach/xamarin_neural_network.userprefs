@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B5995E88-4DB3-4965-93F2-23610918EE1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin_neural_network/Program.cs">
+    <Files>
+      <File FileName="xamarin_neural_network/Program.cs" Line="43" Column="36" />
+      <File FileName="xamarin_neural_network/ReaderExcel.cs" Line="108" Column="79" />
+      <File FileName="xamarin_neural_network/RewardDeepLearning.cs" Line="400" Column="66" />
+      <File FileName="xamarin_neural_network/mylearning.cs" Line="680" Column="6" />
+      <File FileName="xamarin_neural_network/DeepLearning.cs" Line="89" Column="21" />
+      <File FileName="xamarin_neural_network/NormalDeepLearning.cs" Line="387" Column="1" />
+      <File FileName="xamarin_neural_network/QLearningDeepLearning.cs" Line="214" Column="50" />
+      <File FileName="xamarin_neural_network/myAccordSigmoidStochasticFunction.cs" Line="102" Column="29" />
+      <File FileName="xamarin_neural_network/myAccordSigmoidStochasticFunction2.cs" Line="96" Column="32" />
+      <File FileName="xamarin_neural_network/TransformData.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xamarin__neural__network PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="xamarin_neural_network/Program.cs" line="211" offsetX="956" offsetY="3150" expression="appendedTrVaInput[13]" liveUpdate="False" />
+    <Watch file="xamarin_neural_network/DeepLearning.cs" line="116" offsetX="631" offsetY="1725" expression="transOutput" liveUpdate="False" />
+    <Watch file="xamarin_neural_network/mylearning.cs" line="683" offsetX="1071" offsetY="13640" expression="State1" liveUpdate="False" />
+    <Watch file="xamarin_neural_network/mylearning.cs" line="695" offsetX="888" offsetY="13880" expression="minStateGlobal" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

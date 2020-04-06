@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin_neural_network", "xamarin_neural_network\xamarin_neural_network.csproj", "{B5995E88-4DB3-4965-93F2-23610918EE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5995E88-4DB3-4965-93F2-23610918EE1B}.Debug|x86.ActiveCfg = Debug|x86
+		{B5995E88-4DB3-4965-93F2-23610918EE1B}.Debug|x86.Build.0 = Debug|x86
+		{B5995E88-4DB3-4965-93F2-23610918EE1B}.Release|x86.ActiveCfg = Release|x86
+		{B5995E88-4DB3-4965-93F2-23610918EE1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
